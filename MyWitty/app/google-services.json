@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "875804849622",
+    "firebase_url": "https://my-project-1521010529679.firebaseio.com",
+    "project_id": "my-project-1521010529679",
+    "storage_bucket": "my-project-1521010529679.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875804849622:android:027aa5e975d51a31",
+        "android_client_info": {
+          "package_name": "tanika.kulchutisin.kku.ac.th.mywitty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875804849622-2h04r5icnrh0bri3kcspn3dje4174din.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tanika.kulchutisin.kku.ac.th.mywitty",
+            "certificate_hash": "4c79a746064e3caaa0831b94535061d6c05fcbc6"
+          }
+        },
+        {
+          "client_id": "875804849622-27takr8seq6qqkmrg8rpemqdtcjsu1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBco3bfXE9nqnkG-tJmAnI3cLqjFKVj9Fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875804849622-27takr8seq6qqkmrg8rpemqdtcjsu1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875804849622:android:3a4a92537949c3c3",
+        "android_client_info": {
+          "package_name": "tanika.kulchutisin.kku.ac.th.witty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875804849622-5n4grghv1njtshdi9jq0s5pajl0gqn8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tanika.kulchutisin.kku.ac.th.witty",
+            "certificate_hash": "4c79a746064e3caaa0831b94535061d6c05fcbc6"
+          }
+        },
+        {
+          "client_id": "875804849622-27takr8seq6qqkmrg8rpemqdtcjsu1tm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBco3bfXE9nqnkG-tJmAnI3cLqjFKVj9Fs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875804849622-27takr8seq6qqkmrg8rpemqdtcjsu1tm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

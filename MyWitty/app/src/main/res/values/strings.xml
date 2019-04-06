@@ -1,0 +1,222 @@
+<resources>
+    <string name="app_name">My Witty</string>
+    <string name="title_activity_main2">My Witty</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling">Favorite</string>
+
+    <string name="title_activity_search">SearchActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string-array name="lat">
+        <item>16.872930</item>
+        <item>14.402472</item>
+        <item>15.813957</item>
+        <item>16.150035</item>
+        <item>16.567787</item>
+        <item>16.197552</item>
+        <item>17.139112</item>
+        <item>17.222492</item>
+        <item>12.906388</item>
+        <item>12.630833</item>
+        <item>13.313476</item>
+        <item>13.395118</item>
+        <item>13.027853</item>
+        <item>12.706111</item>
+        <item>13.698647</item>
+        <item>13.482386</item>
+        <item>13.950555</item>
+        <item>9.965296</item>
+        <item>10.995643</item>
+        <item>11.764400</item>
+        <item>15.519111</item>
+        <item>15.753458</item>
+        <item>16.360366</item>
+        <item>15.215887</item>
+        <item>14.686562</item>
+        <item>14.912310</item>
+        <item>4.413333</item>
+        <item>14.930277</item>
+        <item>14.622222</item>
+        <item>14.063194</item>
+        <item>14.100659</item>
+        <item>13.985683</item>
+        <item>14.032868</item>
+        <item>12.981421</item>
+        <item>14.792118</item>
+        <item>14.909986</item>
+        <item>13.578068</item>
+        <item>14.631673</item>
+        <item>14.851485</item>
+        <item>14.571042</item>
+        <item>14.911976</item>
+        <item>14.567591</item>
+        <item>16.421669</item>
+        <item>16.764694</item>
+        <item>17.049686</item>
+        <item>15.886521</item>
+        <item>16.494895</item>
+        <item>16.789710</item>
+        <item>15.893596</item>
+        <item>16.584454</item>
+        <item>16.745447</item>
+        <item>15.388324</item>
+        <item>7.893862</item>
+        <item>9.972903</item>
+        <item>20.128033</item>
+        <item>19.356618</item>
+        <item>19.178611</item>
+        <item>19.560598</item>
+        <item>19.348289</item>
+        <item>18.232544</item>
+        <item>18.890084</item>
+        <item>18.092867</item>
+        <item>17.589028</item>
+        <item>18.855369</item>
+        <item>5.803659</item>
+        <item>6.730429</item>
+        <item>17.626666</item>
+        <item>17.587239</item>
+        <item>17.051944</item>
+        <item>17.301666</item>
+        <item>17.264588</item>
+        <item>17.392989</item>
+        <item>18.135670</item>
+        <item>18.348308</item>
+        <item>16.976046</item>
+        <item>17.894966</item>
+        <item>17.311545</item>
+        <item>16.361390</item>
+        <item>16.500424</item>
+        <item>16.791111</item>
+        <item>15.950521</item>
+        <item>15.300647</item>
+        <item>14.606186</item>
+        <item>14.881111</item>
+        <item>15.399900</item>
+        <item>15.179438</item>
+        <item>14.940343</item>
+        <item>15.230413</item>
+        <item>15.428526</item>
+        <item>15.593856</item>
+        <item>18.824276</item>
+        <item>19.073056</item>
+        <item>19.298771</item>
+        <item>19.349328</item>
+        <item>18.512844</item>
+        <item>12.224019</item>
+        <item>17.748453</item>
+        <item>14.565264</item>
+    </string-array>
+
+    <string-array name="lng">
+        <item>103.622510</item>
+        <item>103.373972</item>
+        <item>102.601318</item>
+        <item>102.387267</item>
+        <item>102.129654</item>
+        <item>103.272766</item>
+        <item>102.413390</item>
+        <item>102.462585</item>
+        <item>102.242500</item>
+        <item>102.100555</item>
+        <item>102.171570</item>
+        <item>101.303842</item>
+        <item>101.017250</item>
+        <item>101.440002</item>
+        <item>102.465318</item>
+        <item>102.088716</item>
+        <item>102.638611</item>
+        <item>99.121641</item>
+        <item>99.343808</item>
+        <item>99.670800</item>
+        <item>101.470823</item>
+        <item>101.782967</item>
+        <item>102.118473</item>
+        <item>102.519588</item>
+        <item>101.695221</item>
+        <item>101.984985</item>
+        <item>102.727770</item>
+        <item>103.095277</item>
+        <item>103.054444</item>
+        <item>99.441680</item>
+        <item>99.230814</item>
+        <item>100.965118</item>
+        <item>100.479997</item>
+        <item>99.877516</item>
+        <item>100.677191</item>
+        <item>100.474409</item>
+        <item>100.209363</item>
+        <item>101.108320</item>
+        <item>99.967516</item>
+        <item>100.081436</item>
+        <item>99.660938</item>
+        <item>100.411772</item>
+        <item>99.421200</item>
+        <item>98.671389</item>
+        <item>98.491593</item>
+        <item>100.640617</item>
+        <item>100.492585</item>
+        <item>100.215348</item>
+        <item>100.966152</item>
+        <item>100.956632</item>
+        <item>101.247485</item>
+        <item>99.519680</item>
+        <item>98.396005</item>
+        <item>98.622826</item>
+        <item>99.855948</item>
+        <item>99.790404</item>
+        <item>99.901111</item>
+        <item>100.208216</item>
+        <item>100.111126</item>
+        <item>100.300001</item>
+        <item>99.939039</item>
+        <item>99.534180</item>
+        <item>100.166620</item>
+        <item>99.602125</item>
+        <item>101.758865</item>
+        <item>101.134831</item>
+        <item>104.134444</item>
+        <item>104.334991</item>
+        <item>104.405277</item>
+        <item>104.782500</item>
+        <item>103.451271</item>
+        <item>103.718714</item>
+        <item>103.880041</item>
+        <item>103.674736</item>
+        <item>103.226334</item>
+        <item>102.154135</item>
+        <item>102.787375</item>
+        <item>104.548840</item>
+        <item>104.739722</item>
+        <item>104.163330</item>
+        <item>104.187390</item>
+        <item>104.052331</item>
+        <item>103.865520</item>
+        <item>103.466111</item>
+        <item>103.185800</item>
+        <item>103.821170</item>
+        <item>105.038193</item>
+        <item>104.873770</item>
+        <item>105.392655</item>
+        <item>105.231593</item>
+        <item>98.996560</item>
+        <item>98.304722</item>
+        <item>97.986318</item>
+        <item>98.426847</item>
+        <item>99.027283</item>
+        <item>99.813718</item>
+        <item>102.464501</item>
+        <item>99.941956</item>
+    </string-array>
+    <string name="title_activity_guess_mode">GuessModeActivity</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>

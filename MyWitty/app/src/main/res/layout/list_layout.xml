@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/name_station"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:text="วัดรังสีปาลิวัน"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+
+
+    <TextView
+        android:id="@+id/location_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/name_station"
+        android:layout_below="@+id/name_station"
+        android:layout_marginRight="30dp"
+        android:layout_marginTop="20dp"
+        android:text="คลื่นความถี่: 105.25 MHZ"
+        android:textSize="20dp"/>
+
+
+    <TextView
+        android:id="@+id/code_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/location_station"
+        android:layout_below="@+id/location_station"
+        android:layout_marginRight="30dp"
+        android:text="code: 04520544"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:id="@+id/fm_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/code_station"
+        android:layout_below="@+id/code_station"
+        android:layout_marginRight="30dp"
+        android:text="ที่อยู่: ตำบล โพน อำเภอ คำม่วง จังหวัด กาฬสินธุ์"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:id="@+id/lat_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/fm_station"
+        android:layout_below="@+id/fm_station"
+        android:layout_marginRight="30dp"
+        android:text="lat: 14.402472"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"/>
+
+
+    <TextView
+        android:id="@+id/lng_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/lat_station"
+        android:layout_below="@+id/lat_station"
+        android:layout_marginRight="30dp"
+        android:text="lng: 103.373972"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/high_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/lng_station"
+        android:layout_below="@+id/lng_station"
+        android:layout_marginRight="30dp"
+        android:text="เสาสูง: 60 เมตร"
+        android:textSize="20dp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:id="@+id/tel_station"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/high_station"
+        android:layout_below="@+id/high_station"
+        android:layout_marginRight="30dp"
+        android:text="โทรศัพท์: 083-4154636 (พระอาจารย์ประวิทย์)"
+        android:layout_marginTop="10dp"
+        android:textSize="20sp"/>
+
+
+
+
+
+</RelativeLayout>

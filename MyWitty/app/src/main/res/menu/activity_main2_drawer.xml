@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_Station"
+            android:icon="@drawable/ic_map_black_guide"
+            android:title="My location"
+            />
+        <item
+            android:id="@+id/nav_showSt"
+            android:icon="@drawable/ic_domain_black_24dp"
+            android:title="All Station" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Search" />
+        <item
+            android:id="@+id/nav_fav"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Favorite" />
+
+
+    </group>
+
+    <item android:title="Me">
+        <menu>
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_lock_open_black_guide"
+                android:title="Logout" />
+        </menu>
+    </item>
+</menu>
